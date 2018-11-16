@@ -1,0 +1,22 @@
+1541061199200	Delete element
+1541061511561	Delete element
+1541061906159	Delete element
+1541062718454	Delete element
+1541064194817	Delete element
+1541065213704	Delete element
+1541066193281	Delete element
+1541109111852	Move 'dispatcher-servlet.xml' to 'WEB-INF'
+1541228573167	Delete element
+1541228759527	Delete element
+1541234798163	Delete element
+1541235737878	Move 'index.jsp' to 'view'
+1541236492691	Move 'UserManagement.jsp' to 'WEB-INF'
+1541236591198	Move 'index.jsp' to 'WEB-INF'
+1541236603859	Move 'UserManagement.jsp' to 'webapp'
+1541239653325	Move 'index.jsp' to 'webapp'
+1541245232900	Move 'UserManagement.jsp' to 'view'
+1541247002526	Move 'UserManagement.jsp' to 'webapp'
+1541247106722	Rename resource 'view'
+1541247112064	Move 'UserManagement.jsp' to 'Jsp'
+1541247537079	Move 'index.jsp' to 'Jsp'
+1541247940004	Move 'Jsp' to 'webapp'

@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>registration</title>
+</head>
+<body>
+<center><h2>User Registration Form</h2></center>
+<form action="">
+<div class="table-responsive">
+
+<table class="table table-bordered" style="width: 600px">
+<tr>
+<td>Name</td>
+<td><input type="text" id="name" size="30"></td>
+</tr>
+<tr>
+<td>Department</td>
+<td><input type="text" id="department" size="30"> </td>
+</tr>
+</table>
+</div>
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+F:\Social Collaboration\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1520952898.index
+1142479296.index
+2746487478.index
+3083260570.index
+1051294524.index
+460737162.index
+1047767970.index
+1498292632.index
+4028790063.index

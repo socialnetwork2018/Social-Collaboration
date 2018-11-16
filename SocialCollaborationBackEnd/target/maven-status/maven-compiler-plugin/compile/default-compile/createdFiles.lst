@@ -1,0 +1,11 @@
+com\social\collaboration\serviceimpl\BlogServiceImpl.class
+com\social\collaboration\model\User.class
+com\social\collaboration\dao\UserDAO.class
+com\social\collaboration\service\BlogService.class
+com\social\collaboration\dao\BlogDAO.class
+com\social\collaboration\service\UserService.class
+com\social\collaboration\config\HibernateConfig.class
+com\social\collaboration\model\BaseDomain.class
+com\social\collaboration\daoimpl\UserDAOImpl.class
+com\social\collaboration\serviceimpl\UserserviceImpl.class
+com\social\collaboration\model\Blog.class

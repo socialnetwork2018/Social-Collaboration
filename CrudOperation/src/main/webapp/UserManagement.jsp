@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>registration</title>
+<script type="text/javascript" src="resources/angular/angular.min.js"></script>
+<script type="text/javascript" src="resources/angular/angular.js"></script>
+<link rel="stylesheeet" href="resources/css/bootstrap.min.css">
+</head>
+<body>
+	<center>
+		<h2>User Registration Form</h2>
+	</center>
+	<form action="">
+		<div class="table-responsive">
+
+			<table class="table table-bordered" style="width: 600px">
+				<tr>
+					<td>Name</td>
+					<td><input type="text" id="name" size="30"></td>
+				</tr>
+				<tr>
+					<td>Department</td>
+					<td><input type="text" id="department" size="30"></td>
+				</tr>
+
+				<tr>
+					<td colspan="2"><input type="submit"
+						class="btn btn-primary btn-sm" ng-click="processUser()"
+						value="Create / Update User" /></td>
+				</tr>
+			</table>
+		</div>
+	</form>
+</body>
+</html>

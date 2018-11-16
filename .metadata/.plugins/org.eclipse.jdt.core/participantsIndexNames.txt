@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1009171855.index
+\CrudOperation\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3581470394.index
+\CrudOperation\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2011517932.index
+\CrudOperation\src\main\resources
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\460737162.index
+\SocialCollaborationController\src\main\resources
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1027291177.index
+\CrudOperation\src\main\resources
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\495454356.index
+\CrudOperation\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1051294524.index
+\CrudOperation\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4175443852.index
+\CrudOperation\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\363498639.index
+\SocialCollaborationController\src\main\java
+F:\Social Collaboration\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1638848841.index
+\SocialCollaborationController\src\main\java

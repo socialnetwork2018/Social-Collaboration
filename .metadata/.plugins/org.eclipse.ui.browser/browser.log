@@ -1,0 +1,248 @@
+
+Sep 13, 2018 16:31:02.59 NEW SESSION
+Sep 13, 2018 16:31:02.59 Unable to read VR Path Registry from C:\Users\Djaitai\AppData\Local\openvr\openvrpaths.vrpath
+Sep 13, 2018 16:38:21.74 [9892:8824:0913/163821.748:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 16:38:51.43 [9892:8824:0913/163851.434:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 16:39:37.26 [9892:8824:0913/163937.268:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 16:41:05.05 [9892:8824:0913/164105.053:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 16:43:52.36 [9892:8824:0913/164352.361:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 16:50:04.16 [9892:8824:0913/165004.162:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 17:00:04.17 [9892:8824:0913/170004.178:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Sep 13, 2018 17:10:03.99 [9892:8824:0913/171003.991:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Oct 02, 2018 24:35:05.82 NEW SESSION
+Oct 02, 2018 24:35:05.82 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:05.86 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:05.96 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:05.99 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.10 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.87 [8868:5300:1002/003505.749:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.88 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.89 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.91 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.98 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:06.99 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.01 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.01 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.02 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.04 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.12 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.17 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.19 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.21 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.25 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.28 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.31 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.47 [8868:5300:1002/003505.750:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.62 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.63 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.74 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.82 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.83 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.84 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.85 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.90 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:07.98 [8868:5300:1002/003505.751:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:08.04 [8868:5300:1002/003505.752:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 02, 2018 24:35:08.05 [8868:5300:1002/003505.752:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+
+Oct 17, 2018 03:54:15.80 NEW SESSION
+Oct 17, 2018 03:54:15.80 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.28 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.34 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.36 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.39 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.49 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.55 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.56 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.57 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.59 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.60 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.62 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.64 [4272:7648:1017/035415.753:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.65 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.67 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.68 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.69 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.70 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.72 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.78 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.79 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.80 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.81 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.83 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.87 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.88 [4272:7648:1017/035415.754:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.90 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.91 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.93 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.94 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.98 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:16.99 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:17.01 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:17.02 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:17.03 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:17.05 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:17.06 [4272:7648:1017/035415.755:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Oct 17, 2018 03:54:19.41 [4272:8164:1017/035419.413:ERROR:backend_impl.cc(1065)] Critical error found -8
+Oct 17, 2018 03:54:21.60 [4272:8164:1017/035421.601:ERROR:entry_impl.cc(985)] Failed to save user data
+Oct 17, 2018 03:54:21.81 [4272:8164:1017/035421.601:ERROR:entry_impl.cc(985)] Failed to save user data
+Oct 17, 2018 03:57:30.08 [4272:7648:1017/035730.088:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 03:57:56.25 [4272:7648:1017/035756.259:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 03:58:56.24 [4272:7648:1017/035856.248:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 04:00:27.75 [4272:7648:1017/040027.757:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 04:03:20.06 [4272:7648:1017/040320.061:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 04:11:00.36 [4272:7648:1017/041100.362:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 04:21:00.37 [4272:7648:1017/042100.371:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 04:31:00.39 [4272:7648:1017/043100.391:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 17, 2018 05:16:25.34 [4272:7648:1017/051625.340:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Oct 30, 2018 19:10:17.30 NEW SESSION
+Oct 30, 2018 19:10:17.30 [4828:11356:1030/191017.298:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 30, 2018 19:10:40.03 [4828:11356:1030/191040.032:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 30, 2018 19:11:28.16 [4828:11356:1030/191128.161:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 30, 2018 19:13:16.22 [4828:11356:1030/191316.223:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 30, 2018 19:16:00.42 [4828:11356:1030/191600.423:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Oct 31, 2018 12:29:41.94 NEW SESSION
+Oct 31, 2018 12:29:41.94 [2380:4452:1031/122941.944:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:30:09.21 [2380:4452:1031/123009.215:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:30:53.53 [2380:4452:1031/123053.530:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:32:33.53 [2380:4452:1031/123233.531:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:35:20.41 [2380:4452:1031/123520.416:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:42:21.85 [2380:4452:1031/124221.854:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 12:52:21.87 [2380:4452:1031/125221.878:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:02:21.88 [2380:4452:1031/130221.886:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:12:21.88 [2380:4452:1031/131221.889:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:22:21.90 [2380:4452:1031/132221.900:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:32:21.90 [2380:4452:1031/133221.904:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:42:21.91 [2380:4452:1031/134221.912:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 13:52:21.92 [2380:4452:1031/135221.920:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Oct 31, 2018 14:02:21.92 [2380:4452:1031/140221.924:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 01, 2018 14:00:19.14 NEW SESSION
+Nov 01, 2018 14:00:19.14 [12528:2148:1101/140019.145:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 14:00:46.33 [12528:2148:1101/140046.334:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 14:01:36.02 [12528:2148:1101/140136.026:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 14:03:20.75 [12528:2148:1101/140320.751:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 01, 2018 15:27:56.86 NEW SESSION
+Nov 01, 2018 15:27:56.86 [7044:13820:1101/152756.657:ERROR:extension_protocols.cc(565)] Allowing load of chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.preload.js.mapfrom unknown origin. Could not find user data for request.
+Nov 01, 2018 15:27:56.91 [7044:13820:1101/152756.665:ERROR:extension_protocols.cc(565)] Allowing load of chrome-extension://cfhdojbkjhnklbpkdaibdccddilifddb/include.postload.js.mapfrom unknown origin. Could not find user data for request.
+Nov 01, 2018 16:22:08.13 [9304:14132:1101/162208.124:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 16:22:29.22 [9304:14132:1101/162229.220:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 16:23:27.41 [9304:14132:1101/162327.419:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 16:25:13.13 [9304:14132:1101/162513.131:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 16:29:05.74 [9304:14132:1101/162905.747:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 01, 2018 20:26:01.86 NEW SESSION
+Nov 01, 2018 20:26:01.86 [9900:4172:1101/202601.814:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:26:30.90 [9900:4172:1101/202630.905:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:27:30.72 [9900:4172:1101/202730.724:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:29:13.25 [9900:4172:1101/202913.256:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:32:20.60 [9900:4172:1101/203220.601:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:40:19.22 [9900:4172:1101/204019.222:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 20:50:19.22 [9900:4172:1101/205019.227:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:00:19.23 [9900:4172:1101/210019.230:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:10:19.23 [9900:4172:1101/211019.233:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:20:19.23 [9900:4172:1101/212019.237:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:30:19.24 [9900:4172:1101/213019.241:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:40:19.24 [9900:4172:1101/214019.248:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 21:50:19.25 [9900:4172:1101/215019.252:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:00:19.26 [9900:4172:1101/220019.260:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:10:19.26 [9900:4172:1101/221019.267:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:20:19.27 [9900:4172:1101/222019.274:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:30:19.28 [9900:4172:1101/223019.281:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:40:19.28 [9900:4172:1101/224019.285:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 22:50:19.28 [9900:4172:1101/225019.289:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:00:19.29 [9900:4172:1101/230019.299:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:10:19.30 [9900:4172:1101/231019.305:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:20:19.31 [9900:4172:1101/232019.310:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:30:19.31 [9900:4172:1101/233019.314:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:40:19.32 [9900:4172:1101/234019.321:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 01, 2018 23:50:19.33 [9900:4172:1101/235019.330:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:00:19.33 [9900:4172:1102/000019.332:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:10:19.34 [9900:4172:1102/001019.341:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:20:19.35 [9900:4172:1102/002019.358:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:30:19.37 [9900:4172:1102/003019.369:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:40:19.37 [9900:4172:1102/004019.375:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 24:50:19.38 [9900:4172:1102/005019.382:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:00:19.39 [9900:4172:1102/010019.395:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:10:19.40 [9900:4172:1102/011019.400:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:20:19.40 [9900:4172:1102/012019.406:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:30:19.41 [9900:4172:1102/013019.413:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:40:19.41 [9900:4172:1102/014019.416:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 01:50:19.42 [9900:4172:1102/015019.420:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:00:19.43 [9900:4172:1102/020019.430:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:10:19.44 [9900:4172:1102/021019.443:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:20:19.45 [9900:4172:1102/022019.452:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:30:19.45 [9900:4172:1102/023019.457:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:40:19.46 [9900:4172:1102/024019.463:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 02:50:19.47 [9900:4172:1102/025019.472:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 03:00:19.47 [9900:4172:1102/030019.477:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 02, 2018 03:10:20.02 [9900:4172:1102/031020.026:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 03, 2018 13:33:05.14 NEW SESSION
+Nov 03, 2018 13:33:05.14 [3780:12944:1103/133305.072:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:33:27.04 [3780:12944:1103/133327.041:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:34:07.82 [3780:12944:1103/133407.827:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:36:01.25 [3780:12944:1103/133601.250:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:40:00.52 [3780:12944:1103/134000.518:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:47:15.02 [3780:12944:1103/134715.022:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 13:57:14.98 [3780:12944:1103/135714.980:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:07:14.96 [3780:12944:1103/140714.967:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:17:15.24 [3780:12944:1103/141715.246:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:51:09.26 [7540:124:1103/145109.244:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:51:36.02 [7540:124:1103/145136.021:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:52:29.95 [7540:124:1103/145229.955:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:53:52.21 [7540:124:1103/145352.216:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 14:56:33.93 [7540:124:1103/145633.931:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 15:04:22.41 [7540:124:1103/150422.412:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 15:14:22.41 [7540:124:1103/151422.418:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 15:24:22.42 [7540:124:1103/152422.421:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:43:10.33 [124:3816:1103/164310.336:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:43:31.42 [124:3816:1103/164331.422:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:44:16.73 [124:3816:1103/164416.738:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:46:03.16 [124:3816:1103/164603.169:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:49:04.85 [124:3816:1103/164904.851:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 16:54:48.85 [124:3816:1103/165448.853:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:04:48.86 [124:3816:1103/170448.862:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:14:48.87 [124:3816:1103/171448.873:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:24:48.88 [124:3816:1103/172448.883:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:34:48.88 [124:3816:1103/173448.885:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:44:48.91 [124:3816:1103/174448.915:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 17:54:48.99 [124:3816:1103/175448.992:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:04:49.00 [124:3816:1103/180449.001:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:14:49.01 [124:3816:1103/181449.006:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:24:49.01 [124:3816:1103/182449.011:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:34:49.02 [124:3816:1103/183449.025:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:44:49.03 [124:3816:1103/184449.030:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 18:54:49.03 [124:3816:1103/185449.035:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:04:49.04 [124:3816:1103/190449.040:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:14:49.04 [124:3816:1103/191449.046:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:24:49.05 [124:3816:1103/192449.053:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:34:49.05 [124:3816:1103/193449.056:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:44:49.05 [124:3816:1103/194449.057:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 19:54:49.06 [124:3816:1103/195449.064:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:04:49.07 [124:3816:1103/200449.072:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:14:49.08 [124:3816:1103/201449.079:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:24:49.08 [124:3816:1103/202449.085:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:34:49.09 [124:3816:1103/203449.091:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:44:49.10 [124:3816:1103/204449.098:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 20:54:49.10 [124:3816:1103/205449.109:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 21:04:49.25 [124:3816:1103/210449.121:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 21:14:49.13 [124:3816:1103/211449.134:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 21:24:49.13 [124:3816:1103/212449.136:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 21:34:49.14 [124:3816:1103/213449.144:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 03, 2018 21:44:49.15 [124:3816:1103/214449.151:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Nov 06, 2018 06:59:32.93 NEW SESSION
+Nov 06, 2018 06:59:32.93 [7668:916:1106/065932.930:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:00:00.94 [7668:916:1106/070000.940:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:00:43.58 [7668:916:1106/070043.583:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:02:33.59 [7668:916:1106/070233.596:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:06:01.29 [7668:916:1106/070601.290:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:12:03.48 [7668:916:1106/071203.488:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:22:03.49 [7668:916:1106/072203.490:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:32:03.49 [7668:916:1106/073203.493:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 06, 2018 07:42:03.50 [7668:916:1106/074203.501:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
